@@ -19,6 +19,13 @@ npm install
 
 ```
 
+#### Clone Vristo project and run the development server:
+```bash
+https://github.com/ReflexAI/qa-eng-test
+npm run dev
+
+```
+
 ### 2. Install Cypress and Dendencies for Accessibility and Visual regression
 ```bash
   "@frsource/cypress-plugin-visual-regression-diff": "^3.3.10",
